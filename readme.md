@@ -1,7 +1,9 @@
 #Setup
 
-`npm install`
-`assemble`
+```
+npm install
+assemble
+```
 
 #Expected output
 
