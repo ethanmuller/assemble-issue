@@ -1,0 +1,15 @@
+{
+  "name": "wreckXfxuiXhcY",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "assemble": "git://github.com/assemble/assemble#v0.6.0",
+    "consolidate": "^0.10.0"
+  }
+}
